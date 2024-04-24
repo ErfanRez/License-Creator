@@ -1,0 +1,17 @@
+C:\Users\ERFAN\Desktop\Projects\LicenseCreator\LicenseCreator\obj\Debug\LicenseCreator.csproj.AssemblyReference.cache
+C:\Users\ERFAN\Desktop\Projects\LicenseCreator\LicenseCreator\obj\Debug\LicenseCreator.csproj.SuggestedBindingRedirects.cache
+C:\Users\ERFAN\Desktop\Projects\LicenseCreator\LicenseCreator\obj\Debug\LicenseCreator.MainForm.resources
+C:\Users\ERFAN\Desktop\Projects\LicenseCreator\LicenseCreator\obj\Debug\LicenseCreator.Properties.Resources.resources
+C:\Users\ERFAN\Desktop\Projects\LicenseCreator\LicenseCreator\obj\Debug\LicenseCreator.csproj.GenerateResource.cache
+C:\Users\ERFAN\Desktop\Projects\LicenseCreator\LicenseCreator\obj\Debug\LicenseCreator.csproj.CoreCompileInputs.cache
+C:\Users\ERFAN\Desktop\Projects\LicenseCreator\LicenseCreator\bin\Debug\LicenseCreator.exe.config
+C:\Users\ERFAN\Desktop\Projects\LicenseCreator\LicenseCreator\bin\Debug\LicenseCreator.exe
+C:\Users\ERFAN\Desktop\Projects\LicenseCreator\LicenseCreator\bin\Debug\LicenseCreator.pdb
+C:\Users\ERFAN\Desktop\Projects\LicenseCreator\LicenseCreator\obj\Debug\LicenseCreator.exe
+C:\Users\ERFAN\Desktop\Projects\LicenseCreator\LicenseCreator\obj\Debug\LicenseCreator.pdb
+C:\Users\ERFAN\Desktop\Projects\LicenseCreator\LicenseCreator\bin\Debug\DevComponents.DotNetBar2.dll
+C:\Users\ERFAN\Desktop\Projects\LicenseCreator\LicenseCreator\bin\Debug\DevComponents.DotNetBar2.xml
+C:\Users\ERFAN\Desktop\Projects\LicenseCreator\LicenseCreator\obj\Debug\LicenseCreator.CreateLicense.resources
+C:\Users\ERFAN\Desktop\Projects\LicenseCreator\LicenseCreator\obj\Debug\LicenseCreator.csproj.CopyComplete
+C:\Users\ERFAN\Desktop\Projects\LicenseCreator\LicenseCreator\bin\Debug\FoxLearn.License.dll
+C:\Users\ERFAN\Desktop\Projects\LicenseCreator\LicenseCreator\obj\Debug\LicenseCreator.RegisterLicense.resources
